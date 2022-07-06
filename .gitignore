@@ -1,1 +1,4 @@
+*.iml
 /out/
+/2.8_Stream_API_Optional.iml
+/.idea/
